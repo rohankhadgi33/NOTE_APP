@@ -1,0 +1,18 @@
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repositories
+
+```bash
+# Frontend
+git clone https://github.com/yourusername/notes-app-frontend.git
+cd notes-app-frontend
+npm install
+
+# Backend
+git clone https://github.com/yourusername/notes-app-backend.git
+cd notes-app-backend
+# Open in Visual Studio or run:
+dotnet restore
