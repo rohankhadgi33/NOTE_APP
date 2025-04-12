@@ -39,3 +39,18 @@ A full-stack Notes Application built with Vue 3 + TypeScript + TailwindCSS (fron
 
 ## 📁 Project Structure
 
+---
+
+## 🛠️ Run the Applications
+
+### 🚀 Frontend
+
+```bash
+npm run dev
+```
+### 🚀 Backend
+```bash
+dotnet run
+```
+
+
